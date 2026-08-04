@@ -6,4 +6,6 @@ runs/
 dataset/
 agri_data/
 
+yolov8n.pt
+
 .DS_Store
