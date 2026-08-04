@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+runs/
+
+dataset/
+
+agri_data/
+
+.DS_Store
